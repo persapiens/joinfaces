@@ -13,7 +13,7 @@ dependencies {
         }
     }
 
-    javadocClasspath "org.omnifaces:omnifaces:1.14.1"
+    javadocClasspath "org.omnifaces:omnifaces:4.2"
     javadocClasspath "org.springframework.boot:spring-boot-starter-data-jpa"
     javadocClasspath "org.springframework.session:spring-session-core"
     javadocClasspath "com.github.spotbugs:spotbugs-annotations:4.7.3"
